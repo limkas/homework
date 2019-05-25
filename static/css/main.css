@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(110,191,233);
+}
+
+h1, h3{
+    color: white;
+}
+
+textarea{
+    background-color : rgb(100,180,150)
+}
